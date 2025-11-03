@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Project Cv",
+    "img": "/assets/photos/Portofolio.png",
+    "description": "Portofolio",
+    "url": "https://github.com/sthermiotis00/sthermiotis00.github.io"
+  },
+  {
+    "name": "Project Eshop",
+    "img": "/assets/photos/eshop.png",
+    "description": "Tech-Store",
+    "url": "#"
+  }
+]
